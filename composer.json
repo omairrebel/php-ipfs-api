@@ -1,13 +1,13 @@
 {
-    "name": "ipfs/php-client",
-    "description": "ipfs client library",
+    "name": "omair445/php-ipfs",
+    "description": "PHP IPFS Client Library",
     "keywords" : ["ipfs", "api"],
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Robert Schönthal",
-            "email": "robert.schoenthal@gmail.com"
+            "name": "Omair Afzal",
+            "email": "omair445@live.com"
         }
     ],
     "require": {
